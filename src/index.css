@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --bg-color: #FDF6F0;
+    --grey-black:#3E3E3E;
+    --golden: #B68973;
+    --coffee-brown: #8D6E63;  
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: "Philosopher", sans-serif;
+}
+
+body{
+    background-color: var(--bg-color);
+}

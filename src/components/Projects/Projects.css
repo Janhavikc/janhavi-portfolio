@@ -1,0 +1,41 @@
+.project-card{
+    height: 635px;
+}
+
+.project-heading{
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.15em;
+}
+
+.external-link{
+    display: inline-block;
+    margin-left: 10px;
+    position: relative;
+    top: 6px;
+}
+
+.project-description{
+    line-height: 1.15em;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.tech-stack{
+    margin:1px;
+    border: 1px solid #3e3e3e;
+    background-color: #3e3e3e;
+    color: #B68973;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.cardbox{
+        width: 45%;
+}
+
+@media only screen and (max-width: 814px) {
+    .cardbox{
+        width: 100%;
+    }
+}
