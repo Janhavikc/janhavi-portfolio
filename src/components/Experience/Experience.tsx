@@ -35,7 +35,7 @@ const Experience:React.FC = () =>{
                         <div className="left date  mt-4">
                             <div className="timeline-heading">Backend Developer Intern</div>
                             <div className="timeline-subheading">Digilocker - Remote</div>
-                            <div className="timeline-description" style={{width:'16em'}}>Skills: Swagger, Open API specification, PHP, MySQL, MongoDB, Codeignitor</div>
+                            <div className="timeline-description">Skills: Swagger, Open API specification, PHP, MySQL, MongoDB, Codeignitor</div>
                         </div> 
                         <div className="timeline"></div>
                         <div className="timeline-item right  mt-4" style={{fontSize: '28px'}}>
@@ -65,7 +65,7 @@ const Experience:React.FC = () =>{
                         <div className="left date  mt-4">
                             <div className="timeline-heading">Software Engineer</div>
                             <div className="timeline-subheading">DoorDash - Pune</div>
-                            <div className="timeline-description" style={{width:'16em'}}>Work in progress</div>
+                            <div className="timeline-description">Work in progress</div>
                         </div> 
                         <div className="timeline"></div>
                         <div className="timeline-item right  mt-4" style={{fontSize: '28px'}}>
